@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/atomic-lab/static/css/main.c05d76fb.css",
-    "main.js": "/atomic-lab/static/js/main.d3787e00.js",
-    "static/js/787.64c462a3.chunk.js": "/atomic-lab/static/js/787.64c462a3.chunk.js",
-    "static/media/header-redes-sociales.png": "/atomic-lab/static/media/header-redes-sociales.ddf841026cf7b309d022.png",
-    "static/media/Poppins-Regular.ttf": "/atomic-lab/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
-    "static/media/impresion.png": "/atomic-lab/static/media/impresion.7afb6eb695c810b61f2f.png",
-    "static/media/background_transparent.png": "/atomic-lab/static/media/background_transparent.70df4ea5733e68e84dd9.png",
-    "static/media/otros.png": "/atomic-lab/static/media/otros.979a49f3a8d1a2b75627.png",
-    "static/media/diseno-web.png": "/atomic-lab/static/media/diseno-web.de3b72a1729a04c939e5.png",
-    "static/media/redes-sociales.png": "/atomic-lab/static/media/redes-sociales.54776ac6d548aa000438.png",
-    "static/media/test-review.png": "/atomic-lab/static/media/test-review.2b8d1a4b9e9528e0ba0a.png",
-    "static/media/infografias.png": "/atomic-lab/static/media/infografias.efd9a662c7500611fb11.png",
-    "static/media/manual-de-marca.png": "/atomic-lab/static/media/manual-de-marca.64a0a5cf787185439dc4.png",
-    "static/media/papeleria.png": "/atomic-lab/static/media/papeleria.3328afb0f72510d2d850.png",
-    "static/media/presentaciones.png": "/atomic-lab/static/media/presentaciones.54a3c96894224c79686e.png",
-    "static/media/login_main.png": "/atomic-lab/static/media/login_main.6dd66f7c99a1d9be8fc7.png",
-    "static/media/logotipo.png": "/atomic-lab/static/media/logotipo.52ae73764bf10ebcdfde.png",
-    "index.html": "/atomic-lab/index.html",
-    "main.c05d76fb.css.map": "/atomic-lab/static/css/main.c05d76fb.css.map",
-    "main.d3787e00.js.map": "/atomic-lab/static/js/main.d3787e00.js.map",
-    "787.64c462a3.chunk.js.map": "/atomic-lab/static/js/787.64c462a3.chunk.js.map"
+    "main.css": "./static/css/main.fc59c235.css",
+    "main.js": "./static/js/main.cadfb6f7.js",
+    "static/js/787.64c462a3.chunk.js": "./static/js/787.64c462a3.chunk.js",
+    "static/media/header-redes-sociales.png": "./static/media/header-redes-sociales.ddf841026cf7b309d022.png",
+    "static/media/Poppins-Regular.ttf": "./static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/impresion.png": "./static/media/impresion.7afb6eb695c810b61f2f.png",
+    "static/media/background_transparent.png": "./static/media/background_transparent.70df4ea5733e68e84dd9.png",
+    "static/media/otros.png": "./static/media/otros.979a49f3a8d1a2b75627.png",
+    "static/media/diseno-web.png": "./static/media/diseno-web.de3b72a1729a04c939e5.png",
+    "static/media/redes-sociales.png": "./static/media/redes-sociales.54776ac6d548aa000438.png",
+    "static/media/test-review.png": "./static/media/test-review.2b8d1a4b9e9528e0ba0a.png",
+    "static/media/infografias.png": "./static/media/infografias.efd9a662c7500611fb11.png",
+    "static/media/manual-de-marca.png": "./static/media/manual-de-marca.64a0a5cf787185439dc4.png",
+    "static/media/papeleria.png": "./static/media/papeleria.3328afb0f72510d2d850.png",
+    "static/media/presentaciones.png": "./static/media/presentaciones.54a3c96894224c79686e.png",
+    "static/media/login_main.png": "./static/media/login_main.6dd66f7c99a1d9be8fc7.png",
+    "static/media/logotipo.png": "./static/media/logotipo.52ae73764bf10ebcdfde.png",
+    "index.html": "./index.html",
+    "main.fc59c235.css.map": "./static/css/main.fc59c235.css.map",
+    "main.cadfb6f7.js.map": "./static/js/main.cadfb6f7.js.map",
+    "787.64c462a3.chunk.js.map": "./static/js/787.64c462a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c05d76fb.css",
-    "static/js/main.d3787e00.js"
+    "static/css/main.fc59c235.css",
+    "static/js/main.cadfb6f7.js"
   ]
 }
