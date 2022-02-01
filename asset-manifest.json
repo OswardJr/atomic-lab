@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/atomic-lab/static/css/main.f430992f.css",
-    "main.js": "/atomic-lab/static/js/main.3b664505.js",
+    "main.css": "/atomic-lab/static/css/main.30e22862.css",
+    "main.js": "/atomic-lab/static/js/main.301fe43c.js",
     "static/js/787.64c462a3.chunk.js": "/atomic-lab/static/js/787.64c462a3.chunk.js",
     "static/media/header-redes-sociales.png": "/atomic-lab/static/media/header-redes-sociales.ddf841026cf7b309d022.png",
     "static/media/Poppins-Regular.ttf": "/atomic-lab/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
@@ -18,12 +18,12 @@
     "static/media/login_main.png": "/atomic-lab/static/media/login_main.6dd66f7c99a1d9be8fc7.png",
     "static/media/logotipo.png": "/atomic-lab/static/media/logotipo.52ae73764bf10ebcdfde.png",
     "index.html": "/atomic-lab/index.html",
-    "main.f430992f.css.map": "/atomic-lab/static/css/main.f430992f.css.map",
-    "main.3b664505.js.map": "/atomic-lab/static/js/main.3b664505.js.map",
+    "main.30e22862.css.map": "/atomic-lab/static/css/main.30e22862.css.map",
+    "main.301fe43c.js.map": "/atomic-lab/static/js/main.301fe43c.js.map",
     "787.64c462a3.chunk.js.map": "/atomic-lab/static/js/787.64c462a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f430992f.css",
-    "static/js/main.3b664505.js"
+    "static/css/main.30e22862.css",
+    "static/js/main.301fe43c.js"
   ]
 }
