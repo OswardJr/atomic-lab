@@ -27,7 +27,7 @@ function View({
         <div className="inputs-main">
           <div className="inputs">
             <p className="text-purple">
-              <h2>Login</h2>
+              <h2>Inicia sesión</h2>
             </p>
             <input
               type="email"
@@ -37,7 +37,7 @@ function View({
               onKeyPress={(e) => handleKeyPress(e)}
             />
             {passwordValidation && (
-              <p className="text-error">* Invalid email</p>
+              <p className="text-error">* Email invalido</p>
             )}
             <div className="pass flex">
               <input
@@ -57,7 +57,7 @@ function View({
 
             {messageValidation && (
               <div className="user-invalid">
-                <p className="text-error">Invalid user</p>
+                <p className="text-error">Usuario invalido</p>
               </div>
             )}
 
@@ -65,7 +65,7 @@ function View({
               className="text-purple recovery"
               onClick={() => redirectTo("recover-password")}
             >
-              Recovery password
+              ¿Olvidaste tu contraseña?
             </p>
 
             <div className="button-reactive">
@@ -78,11 +78,11 @@ function View({
                 buttonState={state}
                 onClick={() => (password || email) && onClickHandler()}
                 shadow={false}
-                loadingText={"Logging in..."}
+                loadingText={"Iniciando sesión..."}
                 outline={false}
                 rounded={false}
                 block={false}
-                idleText={"Login"}
+                idleText={"Inicia sesión"}
               />
             </div>
 
@@ -97,12 +97,12 @@ function View({
               Iniciar sesión
             </div> */}
             <p className="not-account">
-              ¿Don't have an account?
+              ¿No tienes una cuenta?
               <div
                 className="text-purple"
                 onClick={() => redirectTo("sing-up")}
               >
-                Register account
+                Crea una cuenta
               </div>
             </p>
           </div>
